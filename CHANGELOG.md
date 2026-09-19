@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/Mearman/bangor-letter-template/compare/v1.1.0...v1.1.1) (2026-09-19)
+
+
+### Bug Fixes
+
+* subtree bump pulls from main, avoiding unrelated histories on the release tag ([4f3cf7b](https://github.com/Mearman/bangor-letter-template/commit/4f3cf7b4d8240dd2f3f018e8aaf55234c71a22c8))
+
 # [1.1.0](https://github.com/Mearman/bangor-letter-template/compare/v1.0.0...v1.1.0) (2026-09-19)
 
 
