@@ -1,0 +1,31 @@
+% !TeX program = pdflatex
+%%% Bangor University headed letter template.
+%%% Replace the sender details and the letter body.
+\documentclass[a4paper,11pt]{letter}
+\usepackage{bangorletter}
+
+% The school line appears under the wordmark when set.
+\school{School of Computer Science and Engineering}
+
+\signature{Your Name\\Your Role}
+\address{Bangor University\\Bangor\\Gwynedd LL57 2DG}
+
+\begin{document}
+
+\begin{letter}{Recipient Name\\Organisation\\Address Line\\City}
+\bangorletterhead
+\opening{Dear Recipient,}
+
+Write the body of the letter here. The letterhead prints the crest,
+the university wordmark, the school line, and a rule in the brand
+red. Keep the first paragraph short.
+
+Use a new paragraph for each point. Close with the action you want.
+
+\closing{Yours faithfully,}
+\cc{Other Party}
+\encl{Enclosure}
+
+\end{letter}
+
+\end{document}
