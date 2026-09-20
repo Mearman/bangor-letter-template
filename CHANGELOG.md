@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/Mearman/bangor-letter-template/compare/v1.1.2...v1.1.3) (2026-09-20)
+
+
+### Bug Fixes
+
+* vendor sync via git archive, needing no subtree merge ancestry ([a4dff3e](https://github.com/Mearman/bangor-letter-template/commit/a4dff3e1ccdce1a819e1b67de4d3ffe94927e2f9))
+
 ## [1.1.2](https://github.com/Mearman/bangor-letter-template/compare/v1.1.1...v1.1.2) (2026-09-19)
 
 
