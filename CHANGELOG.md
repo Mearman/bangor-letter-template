@@ -1,3 +1,10 @@
+## [1.1.6](https://github.com/Mearman/bangor-letter-template/compare/v1.1.5...v1.1.6) (2026-09-20)
+
+
+### Bug Fixes
+
+* do not fetch tags from the package repository during the vendor update ([3eb3f20](https://github.com/Mearman/bangor-letter-template/commit/3eb3f20c3c26ca6b76231a6c6c246856de6fcfc6))
+
 ## [1.1.5](https://github.com/Mearman/bangor-letter-template/compare/v1.1.4...v1.1.5) (2026-09-20)
 
 
