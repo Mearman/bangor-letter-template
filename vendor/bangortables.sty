@@ -1,0 +1,15 @@
+%%% bangortables.sty — table pagination and width support for Bangor documents
+% Loads longtable (pagination at row boundaries), tabularx (width
+% targeting via X-columns), and pdflscape (landscape pages) — three
+% proven, independent tools. Use longtable for tables that may
+% exceed one page, tabularx for tables that need X-columns, and
+% the landscape environment for wide tables that need rotation.
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{bangortables}[2026/09/20 v1.0.4 Bangor University table support]
+
+\RequirePackage{bangor}
+\RequirePackage{longtable}
+\RequirePackage{tabularx}
+\RequirePackage{pdflscape}
+
+\endinput
