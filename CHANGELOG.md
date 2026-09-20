@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/Mearman/bangor-letter-template/compare/v1.1.3...v1.1.4) (2026-09-20)
+
+
+### Bug Fixes
+
+* grep -cv exits nonzero on empty input, killing the step under errexit ([ee568be](https://github.com/Mearman/bangor-letter-template/commit/ee568be7d1c828f93ff505cdb0fad2ee8fdb38e3))
+
 ## [1.1.3](https://github.com/Mearman/bangor-letter-template/compare/v1.1.2...v1.1.3) (2026-09-20)
 
 
