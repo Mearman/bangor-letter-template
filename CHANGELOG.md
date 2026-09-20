@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/Mearman/bangor-letter-template/compare/v1.1.4...v1.1.5) (2026-09-20)
+
+
+### Bug Fixes
+
+* opt-in modules with amsmath load order, compile within Overleaf budget ([ed43246](https://github.com/Mearman/bangor-letter-template/commit/ed432460782a76e910f6452c568189e1b5aee1d6))
+
 ## [1.1.4](https://github.com/Mearman/bangor-letter-template/compare/v1.1.3...v1.1.4) (2026-09-20)
 
 
