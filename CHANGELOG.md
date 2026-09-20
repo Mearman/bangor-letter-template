@@ -1,3 +1,16 @@
+## [1.1.7](https://github.com/Mearman/bangor-letter-template/compare/v1.1.6...v1.1.7) (2026-09-20)
+
+
+### Bug Fixes
+
+* apply the vendor update when the manual run is not a dry run ([cfe27e6](https://github.com/Mearman/bangor-letter-template/commit/cfe27e6c97e75b9bc9ed4440f57444542dd51f4c))
+
+
+Open this exact version in Overleaf, or download it:
+
+[![Open in Overleaf](https://img.shields.io/badge/Open_in_Overleaf-44A141?style=for-the-badge&logo=overleaf&logoColor=white)](https://www.overleaf.com/docs?snip_uri=https://github.com/Mearman/bangor-letter-template/archive/refs/tags/v1.1.7.zip)
+[![Download ZIP](https://img.shields.io/badge/Download_ZIP-ED0000?style=for-the-badge&labelColor=231F20)](https://github.com/Mearman/bangor-letter-template/archive/refs/tags/v1.1.7.zip)
+
 ## [1.1.6](https://github.com/Mearman/bangor-letter-template/compare/v1.1.5...v1.1.6) (2026-09-20)
 
 
