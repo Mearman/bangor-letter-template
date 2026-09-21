@@ -1,3 +1,24 @@
+## [1.1.8](https://github.com/Mearman/bangor-letter-template/compare/v1.1.7...v1.1.8) (2026-09-21)
+
+### Continuous Integration
+
+* apply the header length limit in the commit-msg hook ([49eddf5](https://github.com/Mearman/bangor-letter-template/commit/49eddf59dbaa8328477b6858f348052a23582bdf))
+* push release and vendor commits with a deploy key ([520a3bb](https://github.com/Mearman/bangor-letter-template/commit/520a3bb80c871538c52a6cc56d58714d1a35abc9))
+* release every conventional commit type and list each in the notes ([ce80e70](https://github.com/Mearman/bangor-letter-template/commit/ce80e705e28c2362da84415f142bc9745ada3bd1))
+
+### Miscellaneous Chores
+
+* **vendor:** land bump v2.3.0 ([a782ea0](https://github.com/Mearman/bangor-letter-template/commit/a782ea0f3323ec7919421fc636a1a0ce4cc0c1a1))
+* **vendor:** land bump v4.1.1 ([47ccfa8](https://github.com/Mearman/bangor-letter-template/commit/47ccfa8eea76aec179d670cbef6c3ead6d8a4cbe))
+* **vendor:** land bump v5.0.0 ([a088c2e](https://github.com/Mearman/bangor-letter-template/commit/a088c2e8e3bdcca22696389f623015e3e8c30303))
+* **vendor:** land bump v5.0.2 ([bf1a1ea](https://github.com/Mearman/bangor-letter-template/commit/bf1a1eab5e7146d5f424b28d485dfc03148aefeb))
+
+
+Open this exact version in Overleaf, or download it:
+
+[![Open in Overleaf](https://img.shields.io/badge/Open_in_Overleaf-44A141?style=for-the-badge&logo=overleaf&logoColor=white)](https://www.overleaf.com/docs?snip_uri=https://github.com/Mearman/bangor-letter-template/archive/refs/tags/v1.1.8.zip)
+[![Download ZIP](https://img.shields.io/badge/Download_ZIP-ED0000?style=for-the-badge&labelColor=231F20)](https://github.com/Mearman/bangor-letter-template/archive/refs/tags/v1.1.8.zip)
+
 ## [1.1.7](https://github.com/Mearman/bangor-letter-template/compare/v1.1.6...v1.1.7) (2026-09-20)
 
 
