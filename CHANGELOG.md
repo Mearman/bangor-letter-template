@@ -1,3 +1,15 @@
+## [1.1.10](https://github.com/Mearman/bangor-letter-template/compare/v1.1.9...v1.1.10) (2026-09-21)
+
+### Miscellaneous Chores
+
+* **vendor:** land bump v5.1.0 ([ef14715](https://github.com/Mearman/bangor-letter-template/commit/ef14715c58be881771b1444f4fe34eae2dd89a15))
+
+
+Open this exact version in Overleaf, or download it:
+
+[![Open in Overleaf](https://img.shields.io/badge/Open_in_Overleaf-44A141?style=for-the-badge&logo=overleaf&logoColor=white)](https://www.overleaf.com/docs?snip_uri=https://github.com/Mearman/bangor-letter-template/archive/refs/tags/v1.1.10.zip)
+[![Download ZIP](https://img.shields.io/badge/Download_ZIP-ED0000?style=for-the-badge&labelColor=231F20)](https://github.com/Mearman/bangor-letter-template/archive/refs/tags/v1.1.10.zip)
+
 ## [1.1.9](https://github.com/Mearman/bangor-letter-template/compare/v1.1.8...v1.1.9) (2026-09-21)
 
 ### Miscellaneous Chores
