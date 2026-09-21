@@ -1,3 +1,15 @@
+## [1.1.18](https://github.com/Mearman/bangor-letter-template/compare/v1.1.17...v1.1.18) (2026-09-21)
+
+### Continuous Integration
+
+* time a genuinely cold compile against the Overleaf budget ([ab5eea7](https://github.com/Mearman/bangor-letter-template/commit/ab5eea75cdfb15dcea3daa2561ea37a0d6e057c8))
+
+
+Open this exact version in Overleaf, or download it:
+
+[![Open in Overleaf](https://img.shields.io/badge/Open_in_Overleaf-44A141?style=for-the-badge&logo=overleaf&logoColor=white)](https://www.overleaf.com/docs?snip_uri=https://github.com/Mearman/bangor-letter-template/archive/refs/tags/v1.1.18.zip)
+[![Download ZIP](https://img.shields.io/badge/Download_ZIP-ED0000?style=for-the-badge&labelColor=231F20)](https://github.com/Mearman/bangor-letter-template/archive/refs/tags/v1.1.18.zip)
+
 ## [1.1.17](https://github.com/Mearman/bangor-letter-template/compare/v1.1.16...v1.1.17) (2026-09-21)
 
 ### Miscellaneous Chores
