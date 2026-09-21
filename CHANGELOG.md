@@ -1,3 +1,15 @@
+## [1.1.11](https://github.com/Mearman/bangor-letter-template/compare/v1.1.10...v1.1.11) (2026-09-21)
+
+### Bug Fixes
+
+* archive the release tag so the vendor stamp matches the content ([9b9c4f4](https://github.com/Mearman/bangor-letter-template/commit/9b9c4f48e8153a0be301cf479a8bda6528a1c9a5))
+
+
+Open this exact version in Overleaf, or download it:
+
+[![Open in Overleaf](https://img.shields.io/badge/Open_in_Overleaf-44A141?style=for-the-badge&logo=overleaf&logoColor=white)](https://www.overleaf.com/docs?snip_uri=https://github.com/Mearman/bangor-letter-template/archive/refs/tags/v1.1.11.zip)
+[![Download ZIP](https://img.shields.io/badge/Download_ZIP-ED0000?style=for-the-badge&labelColor=231F20)](https://github.com/Mearman/bangor-letter-template/archive/refs/tags/v1.1.11.zip)
+
 ## [1.1.10](https://github.com/Mearman/bangor-letter-template/compare/v1.1.9...v1.1.10) (2026-09-21)
 
 ### Miscellaneous Chores
