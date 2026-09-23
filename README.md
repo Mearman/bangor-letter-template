@@ -12,6 +12,13 @@ A LaTeX template for letters on Bangor University letterhead. It compiles on Ove
 
 If you use git on your own machine, clone your copy instead and run `latexmk -pdf main.tex`.
 
+## Use it on your own TeX system
+
+No git and no install step needed. Press the *Download ZIP* badge above, extract the archive, and run `latexmk -pdf main.tex` from the extracted folder. The `.latexmkrc` file beside `main.tex` points the compiler at `vendor/`, which is where the class and its modules live, so the project compiles as extracted.
+
+`bangorthesis.cls` on its own is not enough to copy: the class is deliberately split into modules (brand, identity, layout, declarations, tables, abbreviations), all in `vendor/`. The files that must stay together when you copy the project into your own setup are `main.tex`, `references.bib`, `continuation-markers.tex`, `.latexmkrc`, the whole `content/` folder, and the whole `vendor/` folder. If your editor runs `pdflatex` directly rather than through `latexmk`, set the `TEXINPUTS` environment variable to include `vendor//:` first, or point the editor at `latexmk`.
+
+
 ## Write your letter
 
 Replace the sender details, the recipient block, and the body in `main.tex`. Set your school with the `\school` command and it appears under the wordmark. The `\bangorletterhead` command prints the crest, the wordmark, the school line, and a rule in the brand red. Put it at the top of each letter, before the `\opening` command.
