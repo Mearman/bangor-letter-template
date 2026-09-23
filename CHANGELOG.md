@@ -1,3 +1,15 @@
+## [1.1.20](https://github.com/Mearman/bangor-letter-template/compare/v1.1.19...v1.1.20) (2026-09-23)
+
+### Documentation
+
+* add a download-and-compile quick start for local TeX systems ([b4fa274](https://github.com/Mearman/bangor-letter-template/commit/b4fa274cd0fc40c6bc03820221393ef735ff2a36))
+
+
+Open this exact version in Overleaf, or download it:
+
+[![Open in Overleaf](https://img.shields.io/badge/Open_in_Overleaf-44A141?style=for-the-badge&logo=overleaf&logoColor=white)](https://www.overleaf.com/docs?snip_uri=https://github.com/Mearman/bangor-letter-template/archive/refs/tags/v1.1.20.zip)
+[![Download ZIP](https://img.shields.io/badge/Download_ZIP-ED0000?style=for-the-badge&labelColor=231F20)](https://github.com/Mearman/bangor-letter-template/archive/refs/tags/v1.1.20.zip)
+
 ## [1.1.19](https://github.com/Mearman/bangor-letter-template/compare/v1.1.18...v1.1.19) (2026-09-21)
 
 ### Miscellaneous Chores
